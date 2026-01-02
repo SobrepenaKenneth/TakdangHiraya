@@ -1,3 +1,4 @@
+package LoginMenu;
 import java.util.Scanner;
 /**
  * Class made by: Ken
