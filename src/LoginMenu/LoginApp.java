@@ -29,6 +29,7 @@ public class LoginApp {
 		} else {
 			System.out.println("Invalid credentials.");
 		}
+		
+		scan.close();
 	}
-
 }
